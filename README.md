@@ -1,109 +1,13 @@
-# 🏆 OBIolympics
+# 🏆 OBI Nível 2 - Soluções Avançadas
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![OBI](https://img.shields.io/badge/OBI-Nível%202-green)
-![Status](https://img.shields.io/badge/Status-Concluído-success)
-
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OBI-Nível%202-2EA44F?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </div>
 
-## 📋 Sobre o Projeto
+<br>
 
-Este repositório contém minhas soluções para as questões da Olimpíada Brasileira de Informática (OBI) Nível 2. Cada solução foi desenvolvida com foco em eficiência e clareza de código.
-
-## 🚀 Tecnologias Utilizadas
-
-- Python 3.x
-- Lógica de Programação
-- Algoritmos e Estruturas de Dados
-
-## 📁 Estrutura do Projeto
-
-```
-OBIolympics/
-│
-├── question1.py    # Solução da Questão 1
-├── question2.py    # Solução da Questão 2
-├── question3.py    # Solução da Questão 3
-└── question4.py    # Solução da Questão 4
-```
-
-## 🎯 Questões
-
-### Questão 1 - [Nome da Questão]
-
-- **Dificuldade**: ⭐⭐
-- **Categoria**: [Categoria]
-- **Descrição**: [Descrição breve]
-
-### Questão 2 - [Nome da Questão]
-
-- **Dificuldade**: ⭐⭐⭐
-- **Categoria**: [Categoria]
-- **Descrição**: [Descrição breve]
-
-### Questão 3 - [Nome da Questão]
-
-- **Dificuldade**: ⭐⭐⭐
-- **Categoria**: [Categoria]
-- **Descrição**: [Descrição breve]
-
-### Questão 4 - [Nome da Questão]
-
-- **Dificuldade**: ⭐⭐⭐⭐
-- **Categoria**: [Categoria]
-- **Descrição**: [Descrição breve]
-
-## 💻 Como Executar
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/OBIolympics.git
-```
-
-2. Navegue até o diretório do projeto:
-
-```bash
-cd OBIolympics
-```
-
-3. Execute qualquer uma das soluções:
-
-```bash
-python questionX.py
-```
-
-Onde X é o número da questão (1 a 4).
-
-## 📝 Exemplo de Entrada/Saída
-
-### Questão 1
-
-```
-Entrada:
-[Exemplo de entrada]
-
-Saída:
-[Exemplo de saída]
-```
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 👨‍💻 Autor
-
-[Seu nome]
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-
----
-
-⭐️ From [Seu nome] with ❤️
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=2EA44F&center=true&vCenter=true&width=800&height=100&lines=Olimpíada+Brasileira+de+Informática;Soluções+Profissionais+Nível+2" alt="Typing SVG"/>
+</div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&height=50&lines=Engenharia+de+Software+de+Excelência" alt="Typing SVG"/> </div>
