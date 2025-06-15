@@ -4,12 +4,12 @@ L = int(input())
 
 lista = []
 
-lista.appEnd(E - S)
-lista.appEnd(E - L)
-lista.appEnd(S - E)
-lista.appEnd(S - L)
-lista.appEnd(L - S)
-lista.appEnd(L - E)
+lista.append(E - S)
+lista.append(E - L)
+lista.append(S - E)
+lista.append(S - L)
+lista.append(L - S)
+lista.append(L - E)
 
 r = 0
 
